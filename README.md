@@ -4,8 +4,7 @@ Chào mừng bạn đến với kho lưu trữ các bài tập, đồ án và d�
 
 ## Thông tin sinh viên
 - **Họ và tên:** Trần Thiên Vũ
-- **Mã sinh viên:** 2451261069
-- **Lớp:** 66TTNT1
+- **Mã sinh viên:** 2451261069 ; **Lớp:** 66TTNT1
 - **Môn học:** Học Máy (Machine Learning)
 
 ---
