@@ -38,7 +38,6 @@ np.random.seed(42)
 
 indices = np.random.permutation(len(X))
 
-# Điều chỉnh lại kích thước chia tập dữ liệu phù hợp với 25 dòng
 train_size = 17
 val_size = 4
 
