@@ -14,3 +14,4 @@ def myGD1(x0, eta):
       break
     x.append(x_new)
   return (x, it)
+
